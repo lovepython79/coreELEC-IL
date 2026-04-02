@@ -11,8 +11,8 @@
         <extension point="xbmc.addon.metadata">
             <summary lang="en_GB">The Official coreELEC-IL Community Repository</summary>
             <description lang="en_GB">Install addons from coreELEC-IL</description>
-            <summary lang="he_IL">המאגר הרשמי של קהילת coreELEC-IL</summary>
-            <description lang="he_IL">התקנת הרחבות מבית coreELEC-IL</description>
+            <summary lang="he">המאגר הרשמי של קהילת coreELEC-IL</summary>
+            <description lang="he">התקנת הרחבות מבית coreELEC-IL</description>
             <platform>all</platform>
             <assets>
                 <icon>icon.png</icon>
@@ -32,8 +32,8 @@
         <extension point="xbmc.addon.metadata">
             <summary lang="en_GB">AutoCompletion Module [CoreELEC-IL]</summary>
             <description lang="en_GB">A module providing AutoCompletion functions for Kodi keyboards with RTL support.</description>
-            <summary lang="he_IL">השלמה אוטומטית למקלדת (גרסת coreELEC-IL)</summary>
-            <description lang="he_IL">השלמה אוטומטית למקלדת הווירטואלית עם תיקון מובנה לבעיית היפוך האותיות (RTL) בחיפוש בעברית.</description>
+            <summary lang="he">השלמה אוטומטית למקלדת (גרסת coreELEC-IL)</summary>
+            <description lang="he">השלמה אוטומטית למקלדת הווירטואלית עם תיקון מובנה לבעיית היפוך האותיות (RTL) בחיפוש בעברית.</description>
             <news lang="he_IL">[v3.0.0] הסבה מלאה ל-Python 3, תמיכה ב-Kodi 21 ותיקוני RTL לעברית.</news>
             <platform>all</platform>
             <license>GPL-2.0-or-later</license>
@@ -52,8 +52,8 @@
         </requires>
         <extension point="xbmc.python.module" library="lib" />
         <extension point="xbmc.addon.metadata">
-            <summary lang="he_IL">מודול השלמה אוטומטית [CoreELEC-IL]</summary>
-            <description lang="he_IL">מודול המספק פונקציות להשלמה אוטומטית במקלדות של קודי עם תמיכה ב-RTL.</description>
+            <summary lang="he">מודול השלמה אוטומטית [CoreELEC-IL]</summary>
+            <description lang="he">מודול המספק פונקציות להשלמה אוטומטית במקלדות של קודי עם תמיכה ב-RTL.</description>
             <platform>all</platform>
             <license>GPL-2.0-or-later</license>
             <source>https://github.com/lovepython79/coreelec-il</source>
